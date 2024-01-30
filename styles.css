@@ -16,14 +16,14 @@ body {
 h1{
     font-family: Monsieur La Doulaise;
     font-size: 40px;
-    height: 10%;
+    height: 10vh;
 }
 
 a {
     display: block;
-    width: 20%;
-    margin: 2%;
-    padding: 0.5%;
+    width: 20vw;
+    margin: 2vw;
+    padding: 0.5vw;
     text-align: center;
     text-decoration: none;
     color: #333;
